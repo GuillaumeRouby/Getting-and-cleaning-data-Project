@@ -1,10 +1,3 @@
----
-title: "README"
-author: "Guillaume Rouby"
-date: "Sunday, April 26, 2015"
-output: html_document
----
-
 Getting and Cleaning Data Course Project
 ========================================
 
